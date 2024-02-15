@@ -1,0 +1,29 @@
+.task-checkbox-title {
+    font-size: 0.9em;
+    font-weight: bold;
+    color: black;
+}
+
+.task-description-container {
+    background-color: #dadada;
+}
+
+.task-description-text {
+    font-size: 0.6em;
+}
+
+.task-status-header-text {
+    font-size: 0.75em;
+    color: black;
+}
+
+.task-checkbox-text {
+    font-size: 0.7em;
+    font-weight: bold;
+    color: white;
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
